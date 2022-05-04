@@ -3,12 +3,12 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-04T12:06:56.12318+02:00"
+    created: "2022-05-04T12:18:59.931438+02:00"
     description: A Helm chart for Kubernetes
-    digest: 04ba95b2e97fbb8ed3e059a724361debbd9906ff5fd145b00bb4461b1fb24bda
+    digest: 30820be1237319d5fe87de56e350e4f6374562ba69288ca8e19cdd4ec33f203d
     name: demo
     type: application
     urls:
     - demo-0.1.1.tgz
     version: 0.1.1
-generated: "2022-05-04T12:06:56.110128+02:00"
+generated: "2022-05-04T12:18:59.927028+02:00"
